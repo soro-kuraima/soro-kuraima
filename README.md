@@ -12,7 +12,7 @@
 
 
 - 👨🏽‍💻 I’m currently working on Blockchain;
-- 🌱 I’m currently learning solidity and cryptography; 
+- 🌱 I’m currently learning rust, move and cryptography; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhi.asno1@gmail.com;
 
